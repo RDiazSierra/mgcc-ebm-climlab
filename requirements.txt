@@ -1,3 +1,4 @@
 climlab
 numpy
 matplotlib
+xarray
