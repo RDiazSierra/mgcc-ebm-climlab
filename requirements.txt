@@ -1,0 +1,3 @@
+climlab
+numpy
+matplotlib
