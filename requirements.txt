@@ -2,3 +2,4 @@ climlab
 numpy
 matplotlib
 xarray
+pooch
